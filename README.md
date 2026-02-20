@@ -1,4 +1,4 @@
-## Hi there 👋
+## Riccardo Pugliese
 My name is Riccardo Pugliese, and I am currently pursuing an MSc in Data Science.<br>
 I graduated in March 2025 in Economics and Big Data.<br><br>
 Below you can find the links to my projects. Some of them are individual projects, while others are group projects.<br><br>
