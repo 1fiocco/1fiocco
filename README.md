@@ -6,7 +6,6 @@ I graduated in March 2025 in Economics and Big Data.
 Below you can find the links to my projects. Some of them are only my projects, while other are group projects.
 
 https://github.com/1fiocco/fds-pokemon-battles-2025 
-
 In this project we predicted the outcome of pokemons battles starting from the log of the first interactions of every match. It was a group project (me and https://github.com/LeoSuriano) for fundamentals of data science course. We did it in November 2025.
 
 
