@@ -33,6 +33,9 @@ In this project we predicted the ship type starting from NOAA AIS data (such as 
 https://github.com/1fiocco/ADM-hackathon
 In this project we clustered books starting from their html pages. It was a group project (me and https://github.com/LeoSuriano) for Algorithmic methods of data mining and laboratory course. We did it in December 2025.
 
+https://github.com/1fiocco/Statistical-learning-project
+In this project we computed conformal prediction bands on functional data. It was a group project (me and https://github.com/LeoSuriano) for fundamentals of statistical learning course. We did it in February, 2026.
+
 How to reach me:
 
 Mail: riccardo.pugliese040103@gmail.com
