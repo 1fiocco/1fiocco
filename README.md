@@ -8,6 +8,8 @@ https://github.com/1fiocco/FDS_vessel_project<br>
 In this project, we predicted the ship type starting from NOAA AIS data (such as length, width, and so on). It was a group project (me and https://github.com/LeoSuriano) for the Fundamentals of Data Science course. We did it in December 2025.<br><br>
 https://github.com/1fiocco/ADM-hackathon<br>
 In this project, we clustered books starting from their HTML pages. It was a group project (me and https://github.com/LeoSuriano) for the Algorithmic Methods of Data Mining and Laboratory course. We did it in December 2025.<br><br>
+https://github.com/1fiocco/Statistical-learning-project<br>
+In this project, we computed conformal prediction bands on functional data. It was a group project (me and https://github.com/LeoSuriano) for the Fundamentals of Statistical Learning course. We did it in February 2026.<br><br>
 How to reach me:<br>
 Mail: riccardo.pugliese040103@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/riccardo-pugliese-9594b8298/
