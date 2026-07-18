@@ -15,30 +15,6 @@ Mail: riccardo.pugliese040103@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/riccardo-pugliese-9594b8298/
 
 
-
-<!--
-**1fiocco/1fiocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-My name is Riccardo Pugliese, and I am currently pursuing an MSc in Data Science. 
-I graduated in March 2025 in Economics and Big Data.
-
-Below you can find the links to my projects. Some of them are only my projects, while other are group projects.
-
-https://github.com/1fiocco/fds-pokemon-battles-2025 
-In this project we predicted the outcome of pokemons battles starting from the log of the first interactions of every match. It was a group project (me and https://github.com/LeoSuriano) for fundamentals of data science course. We did it in November 2025.
-
-https://github.com/1fiocco/FDS_vessel_project
-In this project we predicted the ship type starting from NOAA AIS data (such as lenght, wide and so on). It was a group project (me and https://github.com/LeoSuriano) for fundamentals of data science course. We did it in December 2025.
-
-https://github.com/1fiocco/ADM-hackathon
-In this project we clustered books starting from their html pages. It was a group project (me and https://github.com/LeoSuriano) for Algorithmic methods of data mining and laboratory course. We did it in December 2025.
-
-https://github.com/1fiocco/Statistical-learning-project
-In this project we computed conformal prediction bands on functional data. It was a group project (me and https://github.com/LeoSuriano) for fundamentals of statistical learning course. We did it in February, 2026.
-
-
 PROGRESA and Its Effect on Migration from Mexico to the United States<br>
 In this project, we estimated the effect of PROGRESA eligibility on first-time migration from Mexico to the United States using Mesoamerican Migration Project data, Difference-in-Differences, and a dynamic event study, finding no statistically significant effect. It was a group project (Lang Chen, Riccardo Pugliese, Leonardo Sani, Giuseppe Stillitano, and Stefano Solazzo) for the Data Driven Economics course. We did it in May 2026.<br><br>
 Bayesian IRT Analysis of INVALSI Test Data<br>
