@@ -10,9 +10,7 @@ https://github.com/1fiocco/ADM-hackathon<br>
 In this project, we clustered books starting from their HTML pages. It was a group project (me and https://github.com/LeoSuriano) for the Algorithmic Methods of Data Mining and Laboratory course. We did it in December 2025.<br><br>
 https://github.com/1fiocco/Statistical-learning-project<br>
 In this project, we computed conformal prediction bands on functional data. It was a group project (me and https://github.com/LeoSuriano) for the Fundamentals of Statistical Learning course. We did it in February 2026.<br><br>
-How to reach me:<br>
-Mail: riccardo.pugliese040103@gmail.com<br>
-LinkedIn: https://www.linkedin.com/in/riccardo-pugliese-9594b8298/
+
 
 
 https://github.com/1fiocco/Data-driven-economics<br>
@@ -27,8 +25,7 @@ https://github.com/1fiocco/Data-Management-for-Data-Science<br>
 In this project, I built a relational PostgreSQL database from the Home Credit Default Risk dataset and used SQL to analyse applicant characteristics, credit history, debt, credit-card utilisation, and overdue payments. I also created a Python data-loading pipeline and optimized queries using indexes and execution plans. It was a project for the Data Management for Data Science course. I did it in July 2026.<br><br>
 
 
-How to reach me:
-
-Mail: riccardo.pugliese040103@gmail.com
-Linkedin: https://www.linkedin.com/in/riccardo-pugliese-9594b8298/
+How to reach me:<br>
+Mail: riccardo.pugliese040103@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/riccardo-pugliese-9594b8298/
 
