@@ -1,6 +1,8 @@
 ## Riccardo Pugliese
 My name is Riccardo Pugliese, and I am currently pursuing an MSc in Data Science.<br>
 I graduated in March 2025 in Economics and Big Data.<br><br>
+More about me: https://1fiocco.github.io/ <br><br>
+
 My Curriculum Vitae is available here: https://github.com/1fiocco/Curriculum_vitae <br><br>
 Below you can find the links to my projects. Some of them are individual projects, while others are group projects.<br><br>
 https://github.com/1fiocco/fds-pokemon-battles-2025<br>
